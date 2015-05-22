@@ -8,7 +8,7 @@ Donate link:
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Set recipient email dynamically by useing a filter
+Set recipient email dynamically by using a filter
 
 
 == Description ==
